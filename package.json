@@ -9,6 +9,10 @@
   "keywords": [
     "crochet"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/things-to-make-and-do/battle-crochet.git"
+  },
   "author": "jpwesselink@gmail.com",
   "license": "MIT"
 }
