@@ -1,0 +1,14 @@
+{
+  "name": "@things-to-make-and-do/battle-crochet",
+  "version": "1.0.0",
+  "description": "Crochet for violent people",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "crochet"
+  ],
+  "author": "jpwesselink@gmail.com",
+  "license": "MIT"
+}
